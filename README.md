@@ -9,3 +9,4 @@ https://github.com/erdongchanyo/icon
 https://github.com/Orz-3/mini  
 https://github.com/blackmatrix7/ios_rule_script/tree/master/icon  
 https://github.com/shoujiqiyuan/DaisyforQuanX  
+https://github.com/Orz-3/face  
