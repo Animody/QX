@@ -1,5 +1,7 @@
 **Rewrite:** Ad Block & Redirect  
 **Filter Arrangement:** CMedia, GMedia, Mainland, Outside, AdGuard (no Forced Policy on each group)  
+**Hit links below for more REWRITE&RULEs:**  
+https://github.com/blackmatrix7/ios_rule_script  
 **Hit links below for more icons:**  
 https://github.com/Koolson/Qure  
 https://github.com/shoujiqiyuan/PVSZforQuanX  
