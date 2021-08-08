@@ -1,3 +1,4 @@
+**Tutorial:** https://www.notion.so/75156f1c053c46568672896145f2eb36  
 **Rewrite:** Ad Block & Redirect  
 **Filter Arrangement:** CMedia, GMedia, Mainland, Outside, AdGuard (no Forced Policy on each group)  
 **More REWRITEs & RULEs:**  
