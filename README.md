@@ -10,6 +10,7 @@ https://github.com/Orz-3/mini
 https://github.com/blackmatrix7/ios_rule_script/tree/master/icon  
 https://github.com/shoujiqiyuan/DaisyforQuanX  
 https://github.com/Orz-3/face  
-**Boxjs:** https://chavyleung.gitbook.io/boxjs/  
-**Sub-store:**  
-https://github.com/Peng-YM/Sub-Store  
+**Boxjs:** http://boxjs.com & http://boxjs.net  
+https://chavyleung.gitbook.io/boxjs/ & https://github.com/chavyleung/scripts/tree/master/box/rewrite  
+**Sub-store:** https://sub-store.vercel.app  
+https://github.com/Peng-YM/Sub-Store & https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
