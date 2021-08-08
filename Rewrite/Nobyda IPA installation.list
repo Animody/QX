@@ -1,0 +1,4 @@
+^https:\/\/nobyda/(install|download)(\/jsbox)?$ url script-echo-response https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/IPA_install.js
+
+hostname=nobyda
+simple_cert_hostname=nobyda
