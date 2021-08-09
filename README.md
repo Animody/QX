@@ -1,9 +1,9 @@
 <div align="center">
 <br>
-<img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Script Collections">
+<img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Collections">
 <br>
 <br>
-<h2 align="center">Animody's Script Collections<h2>
+<h2 align="center">Animody's Collections<h2>
 </div>
 
 ## **Tutorial:** 
