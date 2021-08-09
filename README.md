@@ -41,7 +41,7 @@ Self-used QX Script & Config.
 - [x] https://github.com/shoujiqiyuan/DaisyforQuanX  
 - [x] https://github.com/Orz-3/face  
 
-## **Others:**
+## **Extensions:**
 #### **【Boxjs】** 
 - [x] http://boxjs.com & http://boxjs.net  
 - [x] https://chavyleung.gitbook.io/boxjs/   
