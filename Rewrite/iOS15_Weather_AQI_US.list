@@ -1,0 +1,3 @@
+^https://weather-data.apple.com/v2/weather/[\w-]+/-?[0-9]+\.[0-9]+/-?[0-9]+\.[0-9]+\? url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/iOS15_Weather_AQI_US.js
+
+hostname=weather-data.apple.com
