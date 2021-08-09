@@ -1,3 +1,11 @@
+<div align="center">
+<br>
+<img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Script Collections">
+<br>
+<br>
+<h2 align="center">Animody's Script Collections<h2>
+</div>
+
 ## **Tutorial:** 
 - [x] https://www.notion.so/75156f1c053c46568672896145f2eb36  
 - [x] https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf  
