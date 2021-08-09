@@ -7,7 +7,7 @@
 </div>
   
 <p align="center" color="#6a737d">
-Self-used QX Script & Config.
+Self-used profile, filters & rewrites, JS scripts & configs for QX.
 </p>
 
 ## **Tutorial:** 
