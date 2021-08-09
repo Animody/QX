@@ -5,6 +5,10 @@
 <br>
 <h2 align="center">Animody's Collections<h2>
 </div>
+  
+<p align="center" color="#6a737d">
+Self-used QX Script & Config.
+</p>
 
 ## **Tutorial:** 
 - [x] https://www.notion.so/75156f1c053c46568672896145f2eb36  
