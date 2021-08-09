@@ -29,6 +29,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 ## **Rewrite:** 
 - [x] Ad Block  
 - [x] Redirect  
+- [x] Unlock & Expand functions  
 
 ## **Rule Filter:** 
 #### **[filter_remote]**
