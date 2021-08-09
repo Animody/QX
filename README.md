@@ -50,6 +50,6 @@ Self-used QX Script & Config.
 - [x] https://sub-store.vercel.app  
 - [x] https://github.com/Peng-YM/Sub-Store   
 - [x] https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
-#### **【Resouce-Parser】** 
+#### **【Resource-Parser】** 
 - [x] https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js   
 - [x] https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
