@@ -6,7 +6,7 @@
 **More REWRITEs & RULEs:**  
 https://github.com/blackmatrix7/ios_rule_script  
 <br>
-**More icons:**  
+**More ICONs:**  
 https://github.com/Koolson/Qure  
 https://github.com/shoujiqiyuan/PVSZforQuanX  
 https://github.com/erdongchanyo/icon  
