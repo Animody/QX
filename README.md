@@ -17,5 +17,6 @@ https://github.com/Orz-3/face
 <br>
 **Boxjs:** http://boxjs.com & http://boxjs.net  
 https://chavyleung.gitbook.io/boxjs/ & https://github.com/chavyleung/scripts/tree/master/box/rewrite  
-**Sub-store:** https://sub-store.vercel.app  
+**Sub-Store:** https://sub-store.vercel.app  
 https://github.com/Peng-YM/Sub-Store & https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
+**Resouce-Parser:** https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js & https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
