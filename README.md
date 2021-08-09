@@ -32,10 +32,12 @@
 ## **Others:**
 #### **【Boxjs】** 
 - [x] http://boxjs.com & http://boxjs.net  
-- [x] https://chavyleung.gitbook.io/boxjs/ & https://github.com/chavyleung/scripts/tree/master/box/rewrite  
+- [x] https://chavyleung.gitbook.io/boxjs/   
+- [x] https://github.com/chavyleung/scripts/tree/master/box/rewrite  
 #### **【Sub-Store】** 
 - [x] https://sub-store.vercel.app  
-- [x] https://github.com/Peng-YM/Sub-Store & https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
+- [x] https://github.com/Peng-YM/Sub-Store   
+- [x] https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
 #### **【Resouce-Parser】** 
 - [x] https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js   
 - [x] https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
