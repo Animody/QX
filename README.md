@@ -33,11 +33,11 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 
 ## **Rule Filter:** 
 #### **[filter_remote]**
-- [x] CMedia  
-- [x] GMedia  
-- [x] Mainland  
-- [x] Outside  
-- [x] AdGuard (no ***Forced Policy*** on each group)  
+- [x] [CMedia](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/CMedia.list "no Forced Policy on each group")  
+- [x] [GMedia](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/GMedia.list "no Forced Policy on each group")  
+- [x] [Mainland](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/Mainland.list "no Forced Policy on each group")  
+- [x] [Outbound](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/Outbound.list "no Forced Policy on each group")  
+- [x] [AdGuard](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/AdGuard.list "no Forced Policy on each group") (no ***Forced Policy*** on each group)  
 
 ## **More Rewrites & Rules:**  
 - [x] https://github.com/blackmatrix7/ios_rule_script  
