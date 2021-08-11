@@ -47,16 +47,16 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] [AdGuard](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/AdGuard.list "no Forced Policy on each group") (no ***Forced Policy*** on each group)  
 
 ## **More Rewrites & Rules:**  
-- [x] https://github.com/blackmatrix7/ios_rule_script  
+- [x] [blackmatrix7's iOS Rule Script](https://github.com/blackmatrix7/ios_rule_script)  
 
 ## **More Icons:**  
-- [x] https://github.com/Koolson/Qure  
-- [x] https://github.com/shoujiqiyuan/PVSZforQuanX  
-- [x] https://github.com/erdongchanyo/icon  
-- [x] https://github.com/Orz-3/mini  
-- [x] https://github.com/blackmatrix7/ios_rule_script/tree/master/icon  
-- [x] https://github.com/shoujiqiyuan/DaisyforQuanX  
-- [x] https://github.com/Orz-3/face  
+- [x] [Koolson Qure IconSet](https://github.com/Koolson/Qure)  
+- [x] [PVSZforQuanX IconSet](https://github.com/shoujiqiyuan/PVSZforQuanX)  
+- [x] [erdongchanyo IconSet](https://github.com/erdongchanyo/icon)  
+- [x] [Orz-3 mini IconSet](https://github.com/Orz-3/mini)  
+- [x] [Orz-3 face IconSet](https://github.com/Orz-3/face)  
+- [x] [blackmatrix7 IconSet](https://github.com/blackmatrix7/ios_rule_script/tree/master/icon)  
+- [x] [shoujiqiyuan IconSet](https://github.com/shoujiqiyuan/DaisyforQuanX)  
 
 ## **Extensions:**
 ### **【Boxjs】** 
