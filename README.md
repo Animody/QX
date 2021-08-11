@@ -39,7 +39,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] Unlock & Expand functions  
 
 ## **Rule Filter:** 
-- ### **[filter_remote]**
+### **[filter_remote]**
 - [x] [CMedia](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/CMedia.list "no Forced Policy on each group")  
 - [x] [GMedia](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/GMedia.list "no Forced Policy on each group")  
 - [x] [Mainland](https://raw.githubusercontent.com/Animody/QX_Config/main/Rule%20Filter/Mainland.list "no Forced Policy on each group")  
