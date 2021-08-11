@@ -6,6 +6,13 @@
 <h2 align="center">:cheese:Anim:hole:dy:rat:'s Collections<h2>
 </div>
   
+<p align="center">
+    <img alt="Version" src="https://img.shields.io/badge/release-1.0-blue"/>
+    <a href="https://github.com/Animody">
+        <img alt="Author" src="https://img.shields.io/badge/Author-Animody-blueviolet"/>
+    </a>
+</p>
+  
 <p align="center" color="#6a737d">
 Self-used profile, filters & rewrites, JS scripts & configs for QX.
 </p>
