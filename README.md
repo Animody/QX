@@ -25,6 +25,8 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 <div align="center">
 <img width="1080" src="https://raw.githubusercontent.com/Animody/QX_Config/main/IMG_9507.PNG" alt="Frame">
 </div>
+  
+---------------------------------------------------------  
 
 ## **Tutorial:** 
 > - [x] https://www.notion.so/75156f1c053c46568672896145f2eb36  
