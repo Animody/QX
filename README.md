@@ -64,5 +64,5 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js   
 - [x] https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
   
-## **Traffic**  
+## **Site Traffic**  
 ![](https://profile-counter.glitch.me/QX_Config/count.svg)
