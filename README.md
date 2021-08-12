@@ -28,7 +28,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 
 ## **Tutorial:** 
 - [x] [Descriptions made with Notion](https://www.notion.so/75156f1c053c46568672896145f2eb36)  
-- [x] [Descriptions on Official Profile](https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf)  
+- [x] [Descriptions on Official Profile](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf)  
 
 ## **Ready-to-use Profile:** 
 - [x] Click[「**here**」](https://ivapp.cn/quantumultX.conf "https://ivapp.cn/quantumultX.conf")to download the ready-made .conf file by [*iOS Tech Hack*](https://ivapp.cn "苹果iOS黑科技")  
