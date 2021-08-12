@@ -27,11 +27,11 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 </div>
 
 ## **Tutorial:** 
-- [x] https://www.notion.so/75156f1c053c46568672896145f2eb36  
-- [x] https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf  
+- [x] [Descriptions made on Notion](https://www.notion.so/75156f1c053c46568672896145f2eb36)  
+- [x] [Descriptions on Official Profile](https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf)  
 
 ## **Ready-to-use Profile:** 
-- [x] https://ivapp.cn/quantumultX.conf  
+- [x] Click [**here**](https://ivapp.cn/quantumultX.conf) to download .conf file  
 
 ## **Rewrite:** 
 - [x] Ad Block  
