@@ -64,7 +64,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] https://chavyleung.gitbook.io/boxjs/   
 - [x] https://github.com/chavyleung/scripts/tree/master/box/rewrite  
 ### **【Sub-Store】** 
-- [x] https://sub-store.vercel.app  
+- [x] [sub-store.vercel.app](https://sub-store.vercel.app "official version")  
 - [x] https://github.com/Peng-YM/Sub-Store   
 - [x] https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
 ### **【Resource-Parser】** 
