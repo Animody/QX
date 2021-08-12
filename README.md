@@ -60,7 +60,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 
 ## **Extensions:**
 ### **【Boxjs】** 
-- [x] http://boxjs.com & http://boxjs.net  
+- [x] [boxjs.com](http://boxjs.com "official version") or [boxjs.net](http://boxjs.net "T-version")  
 - [x] https://chavyleung.gitbook.io/boxjs/   
 - [x] https://github.com/chavyleung/scripts/tree/master/box/rewrite  
 ### **【Sub-Store】** 
