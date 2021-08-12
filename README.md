@@ -60,11 +60,11 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 
 ## **Extensions:**
 ### **【Boxjs】** 
-- [x] [boxjs.com](http://boxjs.com "official version") or [boxjs.net](http://boxjs.net "T-version")  
+- [x] [***boxjs.com***](http://boxjs.com "official version") or [***boxjs.net***](http://boxjs.net "T-version")  
 - [x] https://chavyleung.gitbook.io/boxjs/   
 - [x] https://github.com/chavyleung/scripts/tree/master/box/rewrite  
 ### **【Sub-Store】** 
-- [x] [sub-store.vercel.app](https://sub-store.vercel.app "official version")  
+- [x] [***sub-store.vercel.app***](https://sub-store.vercel.app "official version")  
 - [x] https://github.com/Peng-YM/Sub-Store   
 - [x] https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
 ### **【Resource-Parser】** 
