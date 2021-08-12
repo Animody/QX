@@ -27,7 +27,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 </div>
 
 ## **Tutorial:** 
-- [x] [Descriptions made on Notion](https://www.notion.so/75156f1c053c46568672896145f2eb36)  
+- [x] [Descriptions made with Notion](https://www.notion.so/75156f1c053c46568672896145f2eb36)  
 - [x] [Descriptions on Official Profile](https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf)  
 
 ## **Ready-to-use Profile:** 
