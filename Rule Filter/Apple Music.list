@@ -1,0 +1,12 @@
+HOST,beta.music.apple.com,AppleMusic
+HOST,aod.itunes.apple.com,AppleMusic
+HOST,api.smoot.apple.cn,AppleMusic
+HOST,music.apple.com,AppleMusic
+HOST,mvod.itunes.apple.com,AppleMusic
+HOST-SUFFIX,icloudmusic.net,AppleMusic
+USER-AGENT,Music*,AppleMusic
+HOST,audio-ssl.itunes.apple.com,AppleMusic
+HOST,audio.itunes.apple.com,AppleMusic
+HOST,streamingaudio.itunes.apple.com,AppleMusic
+HOST-SUFFIX,blobstore.apple.com,AppleMusic
+HOST-SUFFIX,music.apple.com,AppleMusic
