@@ -1,0 +1,4 @@
+HOST,beta.apple.com,TestFlight
+HOST,testflight.apple.com,TestFlight
+HOST-KEYWORD,testflight,TestFlight
+USER-AGENT,TestFlight*,TestFlight
