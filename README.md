@@ -31,7 +31,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] [Descriptions on Official Profile](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)  
 
 ## **Ready-to-use Profile:** 
-- [x] Click[「**here**」](https://ivapp.cn/quantumultX.conf "https://ivapp.cn/quantumultX.conf")to download the ready-made .conf file by [*iOS Tech Hack*](https://ivapp.cn "苹果iOS黑科技")  
+- [x] Click[「**here**」](https://ivapp.cn/quantumultX.conf "One Tap to Config")to download the ready-made .conf by [*iOS Tech Hack*](https://ivapp.cn "苹果iOS黑科技")  
 
 ## **Rewrite:** 
 - [x] Ad Block  
