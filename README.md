@@ -58,17 +58,25 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] [shoujiqiyuan IconSet](https://github.com/shoujiqiyuan)  
 
 ## **Extensions:**
-### **【Boxjs】** 
-- [x] [***boxjs.com***](http://boxjs.com "official version") or [***boxjs.net***](http://boxjs.net "T-version")  
-- [x] https://chavyleung.gitbook.io/boxjs/   
-- [x] https://github.com/chavyleung/scripts/tree/master/box/rewrite  
-### **【Sub-Store】** 
-- [x] [***sub-store.vercel.app***](https://sub-store.vercel.app "official version")  
-- [x] https://github.com/Peng-YM/Sub-Store   
-- [x] https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46  
-### **【Resource-Parser】** 
-- [x] https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js   
-- [x] https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
-  
+### **Resource-Parser** 
+Copy & Paste either url to `[general]` in app.
+```
+resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js   
+```
+```
+resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
+```
+------------------------------
+### **Boxjs**  
+Go to `[http_backend]` or `[rewrite_remote]` in app, complete the setup process following a few steps.  
+- [x] [Official Github](https://github.com/chavyleung/scripts/tree/master/box/rewrite) 
+- [x] [Follow the Guide](https://chavyleung.gitbook.io/boxjs/)   
+- [x] backend server: [***boxjs.com***](http://boxjs.com "official version") or [***boxjs.net***](http://boxjs.net "T-version")  
+------------------------------
+### **Sub-Store** 
+The same steps as above to set up Sub-Store. Hit links and view details.  
+- [x] [Official Github](https://github.com/Peng-YM/Sub-Store)   
+- [x] [Follow the Guide](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)  
+- [x] backend server: [***sub-store.vercel.app***](https://sub-store.vercel.app "official version")  
 ## **Site Traffic**  
 ![](https://profile-counter.glitch.me/QX_Config/count.svg)
