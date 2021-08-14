@@ -50,13 +50,12 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] [blackmatrix7's iOS Rule Script](https://github.com/blackmatrix7/ios_rule_script)  
 
 ## **More Icons:**  
-- [x] [Koolson Qure IconSet](https://github.com/Koolson/Qure)  
-- [x] [PVSZforQuanX IconSet](https://github.com/shoujiqiyuan/PVSZforQuanX)  
+- [x] [Koolson Qure IconSet](https://github.com/Koolson/Qure)   
 - [x] [erdongchanyo IconSet](https://github.com/erdongchanyo/icon)  
 - [x] [Orz-3 mini IconSet](https://github.com/Orz-3/mini)  
 - [x] [Orz-3 face IconSet](https://github.com/Orz-3/face)  
 - [x] [blackmatrix7 IconSet](https://github.com/blackmatrix7/ios_rule_script/tree/master/icon)  
-- [x] [shoujiqiyuan IconSet](https://github.com/shoujiqiyuan/DaisyforQuanX)  
+- [x] [shoujiqiyuan IconSet](https://github.com/shoujiqiyuan)  
 
 ## **Extensions:**
 ### **【Boxjs】** 
