@@ -78,5 +78,5 @@ The same steps as above to set up Sub-Store. Hit links and view details.
 - [x] [Official Github](https://github.com/Peng-YM/Sub-Store)   
 - [x] [Follow the Guide](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)  
 - [x] backend server: [***sub-store.vercel.app***](https://sub-store.vercel.app "official version")  
-## **Site Traffic:**  
+## **Site Traffic**  
 ![](https://profile-counter.glitch.me/QX_Config/count.svg)
