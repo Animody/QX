@@ -1,0 +1,9 @@
+HOST-SUFFIX,iflix-images.akamaized.net,WeTV
+HOST-SUFFIX,iflix.com,WeTV
+HOST-SUFFIX,v.smtcdns.com,WeTV
+HOST-SUFFIX,v.smtcdns.net,WeTV
+HOST-SUFFIX,vv.video.qq.com,WeTV
+HOST-SUFFIX,wetv.vip,WeTV
+HOST-SUFFIX,wetvinfo.com,WeTV
+USER-AGENT,WeTV*,WeTV
+IP-CIDR,150.109.28.51/32,WeTV
