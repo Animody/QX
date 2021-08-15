@@ -1,0 +1,14 @@
+
+HOST,www.flickr.com,Flickr
+HOST,heartbeat.flickr.com,Flickr
+HOST,api.flickr.com,Flickr
+HOST,live.staticflickr.com,Flickr
+HOST,farm6.staticflickr.com,Flickr
+HOST,farm66.staticflickr.com,Flickr
+HOST,farm3.static.flickr.com,Flickr
+HOST,farm5.staticflickr.com,Flickr
+HOST-SUFFIX,flickr.com,Flickr
+HOST-SUFFIX,staticflickr.com,Flickr
+HOST,firebaseremoteconfig.googleapis.com,Flickr
+USER-ANGENT,Flickr*,Flickr
+#UA: Flickr/4.16.14 (iPhone; iOS 14.7.1; Scale/3.00)
