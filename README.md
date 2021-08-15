@@ -36,7 +36,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 ## **Rewrite:** 
 - [x] Ad Block  
 - [x] Redirect  
-- [x] Unlock & Expand functions ([.conf](https://6678888.xyz/quantumultX/ioshkj.conf))  
+- [x] Unlock & Expand functions ([.conf](https://6678888.xyz/quantumultX/ioshkj.conf "rewrites to unlock Premium"))  
 
 ## **Rule Filter:** 
 ### **[filter_remote]**
