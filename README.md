@@ -1,9 +1,10 @@
 <div align="center">
 <br>
 <img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Collections">
-<br>
-<br>
-<h2 align="center">:cheese:Anim:hole:dy:rat:'s Collections<h2>
+<br><br>
+<samp>
+<h2 align="center">:cheese:𝗔𝕟𝕚𝕞:hole:𝕕𝕪:rat:'s Collections<h2>
+</samp>
 </div>
   
 <p align="center">
