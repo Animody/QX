@@ -26,6 +26,13 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 </div>
+  
+<details>
+  <summary><b>Lead:</b></summary>
+  <samp>
+  It's incredibly enjoyable to try out the amazing tech hacks and the state-of-art inventions of all trades, isn't it? Join me! Let's dig deep into the uncharted territory of Sci-Tech and see how far we could reach.
+  </samp>
+</details>
 
 ## **Tutorial:** 
 - [x] [Descriptions made with Notion](https://www.notion.so/75156f1c053c46568672896145f2eb36)  
