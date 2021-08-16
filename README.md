@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1080" src="https://raw.githubusercontent.com/Animody/QX_Config/main/IMG_9507.PNG" alt="Frame">
 </div>
-
+<br>
 <div align="center">
 <br>
 <img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Collections">
