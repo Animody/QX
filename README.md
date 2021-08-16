@@ -1,4 +1,8 @@
 <div align="center">
+<img width="1080" src="https://raw.githubusercontent.com/Animody/QX_Config/main/IMG_9507.PNG" alt="Frame">
+</div>
+
+<div align="center">
 <br>
 <img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Collections">
 <br><br>
@@ -21,10 +25,6 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 <div align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-</div>
-  
-<div align="center">
-<img width="1080" src="https://raw.githubusercontent.com/Animody/QX_Config/main/IMG_9507.PNG" alt="Frame">
 </div>
 
 ## **Tutorial:** 
