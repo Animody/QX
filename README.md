@@ -3,7 +3,7 @@
 <img width="200" src="https://raw.githubusercontent.com/Animody/QX_Config/main/profile.png" alt="Animody's Collections">
 <br><br>
 <samp>
-<h2 align="center">:cheese:𝕬𝖓𝖎𝖒:hole:𝖉𝖞:rat:'𝖘 𝕮𝖔𝖑𝖑𝖊𝖈𝖙𝖎𝖔𝖓𝖘<h2>
+<h1 align="center">:cheese:𝕬𝖓𝖎𝖒:hole:𝖉𝖞:rat:'𝖘 𝕮𝖔𝖑𝖑𝖊𝖈𝖙𝖎𝖔𝖓𝖘<h1>
 </samp>
 </div>
   
