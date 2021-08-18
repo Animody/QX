@@ -30,7 +30,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 <details>
   <summary><b>Lead:</b></summary>
   <samp>
-&emsp;&emsp;In an age where Sci-tech products prevails, it's incredibly enjoyable to try out the amazing tech hacks and the state-of-art inventions of all trades, isn't it? Join me! Let's dig deep into the uncharted territory of Quantumult X and see what it brings.
+&emsp;&emsp;In an age where Sci-tech products prevail, it's incredibly enjoyable to try out the amazing tech hacks and the state-of-art inventions of all trades, isn't it? Join me! Let's dig deep into the uncharted territory of Quantumult X and see what it brings.
   </samp>
 </details>
 
