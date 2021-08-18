@@ -1,7 +1,8 @@
 #Date Last Modified: 2021-08-17
-#Rewrite: 1060
+#Rewrite: 1061
 #MITM: 673
 
+^http:\/\/c\.tieba\.baidu\.com\/(ala\/live\/mgetLiveStatus\?|c\/(u\/user\/profile\?|f\/(frs\/zoneRight\?|excellent\/personalized\?)|s\/(getClientConfig\?|queryCollectUpdateNum\?|getPoisByLocation\?))) url reject
 ^https?:\/\/api\.bilibili\.com\/pgc\/page\/bangumi url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
 ^https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\? url reject
 ^https?:\/\/api\.live\.bilibili\.com\/xlive\/app-room\/v1\/index\/getInfoByRoom url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
