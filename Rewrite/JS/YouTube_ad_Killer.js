@@ -1,5 +1,6 @@
-#YouTube_Ad_Killer
 /****************************
+     YouTube_Ad_Killer
+****************************
 Solution 1:
 ctier=[A-Z] url 302 ctier=A
 ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) url reject-200
