@@ -2,7 +2,7 @@
 #Rewrite: 1062
 #MITM: 674
 
-(The first two are still on trial)
+(The first two are still experimental.)
 ^https:\/\/mobilegw\.alipay\.com\/mgw\.htm url reject-dict
 ^http:\/\/c\.tieba\.baidu\.com\/(ala\/live\/mgetLiveStatus\?|c\/(u\/user\/profile\?|f\/(frs\/zoneRight\?|excellent\/personalized\?)|s\/(getClientConfig\?|queryCollectUpdateNum\?|getPoisByLocation\?))).* url reject
 ^https?:\/\/api\.bilibili\.com\/pgc\/page\/bangumi url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
