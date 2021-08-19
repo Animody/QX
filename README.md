@@ -42,7 +42,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] Click[「**here**」](https://ivapp.cn/quantumultX.conf "One Tap to Config")to download the ready-made .conf by [*iOS Tech Hack*](https://ivapp.cn "苹果iOS黑科技")  
 
 ## **Rewrite:** 
-- [x] Ad Block & Redirect ([AdGuard.list](https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/AdGuard.list))  
+- [x] Ad Block & Redirect ([AdGuard.list](https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/AdGuard.list) & [rewrite_local.txt](https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/rewrite_local.txt))  
 - [x] Unlock & Expand functions ([.conf](https://6678888.xyz/quantumultX/ioshkj.conf "rewrites to unlock Premium"))  
 
 ## **Rule Filter:** 
