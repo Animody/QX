@@ -133,6 +133,7 @@ https://api.bilibili.com/x/v2/dm/ad url reject-200
 ^https:\/\/duckduckgo.com\/\?q=ddg\+([^&]+).+ url 302 https://duckduckgo.com/?ia=about&q=$1 
 ^https:\/\/duckduckgo.com\/\?q=([^&]+).+ url 302 https://www.google.com/search?q=$1 
 ##Unlock Premium & Expand functions
+^https:\/\/api\.revenuecat\.com\/v1\/receipts url script-response-body https://6678888.xyz/quantumultX/audio.js
 https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean - script-request-header https://raw.githubusercontent.com/Steve7491/QX/main/JD_DailyBonus.js
 ^https:\/\/(api\.m|me-api)\.jd\.com\/(client\.action\?functionId=signBean|user_new\/info\/GetJDUserInfoUnion\?) url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 ^https:\/\/ms\.jr\.jd\.com\/gw\/generic\/hy\/h5\/m\/appSign\? url script-request-body https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
