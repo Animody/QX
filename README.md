@@ -87,3 +87,5 @@ The same steps as above to set up Sub-Store. Hit links and view details.
 - [x] backend server: [***sub-store.vercel.app***](https://sub-store.vercel.app "official version")  
 ## **Site Traffic**  
 ![](https://profile-counter.glitch.me/QX_Config/count.svg)
+  
+[![Animody’s github stats](https://github-readme-stats.vercel.app/api?username=Animody&show_icons=true&theme=merko)](https://github.com/Animody)
