@@ -43,7 +43,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 
 ## **Rewrite:** 
 - [x] Ad Block & Redirect ([AdGuard.list](https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/AdGuard.list) & [rewrite_local.txt](https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/rewrite_local.txt))  
-- [x] Unlock & Expand functions ([.conf](https://6678888.xyz/quantumultX/ioshkj.conf "rewrites to unlock Premium"))  
+- [x] Unlock & Expand functions ([.conf](https://xmkczs.com/quantumultX/ioshkj.conf "rewrites to unlock Premium"))  
 
 ## **Rule Filter:** 
 ### **[filter_remote]**
