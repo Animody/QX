@@ -715,3 +715,5 @@ HOST-SUFFIX,tools.google.com,Google
 HOST-SUFFIX,tools.l.google.com,Google
 HOST-SUFFIX,www-googletagmanager.l.google.com,Google
 HOST,www.googleapis.com,Google
+HOST-SUFFIX,appmeasurement.com,Google
+HOST-SUFFIX,neverware.com,Google
