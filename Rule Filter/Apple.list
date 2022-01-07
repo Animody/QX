@@ -1,3 +1,14 @@
+HOST,mask-api.icloud.com,Apple
+HOST,mask-api.fe.apple-dns.net,Apple
+HOST,mask.icloud.com,Apple
+HOST,mask.apple-dns.net,Apple
+HOST,mask-h2.icloud.com,Apple
+HOST,mask-t.apple-dns.net,Apple
+HOST,mask.appledns.net,Apple
+HOST,maskapi.fe.appledns.net,Apple
+HOST,maskapi.icloud.com,Apple
+HOST,maskh2.icloud.com,Apple
+HOST,maskt.appledns.net,Apple
 HOST,api-glb-sea.smoot.apple.com,Apple
 HOST,books.itunes.apple.com,Apple
 HOST,cvws.icloud-content.com,Apple
