@@ -1,2 +1,3 @@
 hostname= api.rr.tv,
 ^https:\/\/api\.rr\.tv(\/user\/privilege\/list|\/ad\/getAll|\/rrtv-video\/v4plus\/season\/detail|\/drama\/app\/get_combined_drama_detail) url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/rrtv.js
+^https?:\/\/api\.rr\.tv\/(?:ad\/getAll$|storage/business/rootName/app/homePage) url reject
