@@ -1,4 +1,6 @@
 HOST,mtalk.google.com,Google
+HOST,app-measurement.com,Google
+HOST,suggestqueries.google.com,Google
 HOST-SUFFIX,.bo,Google
 HOST-SUFFIX,.chrome,Google
 HOST-SUFFIX,.co,Google
