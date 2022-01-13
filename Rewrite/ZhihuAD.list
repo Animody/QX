@@ -1,0 +1,34 @@
+# 知乎处理用户信息
+# 知乎信息流去广告
+# 知乎回答列表去广告
+# 知乎获取黑名单
+# 知乎官方消息去广告
+# 知乎预置关键词去广告
+# 优化软件配置
+# 知乎热搜去广告
+# 知乎热榜去广告
+# 知乎评论去广告
+# 知乎回答列表去广告
+^https?:\/\/(www\.zhihu\.com\/appview\/v2\/answer\/.*(entry=(?!(preload-topstory|preload-search|preload-subscription)))?|appcloud2\.zhihu\.com\/v\d+\/config|api\.zhihu\.com(\/people\/|\/(moments|topstory)(\/|\?)?(recommend|action=|feed_type=)(?!\/people)|\/v4\/questions|\/settings\/blocked_users|\/notifications\/v3\/(message|timeline\/entry\/system_message)|\/search\/preset_words\?|\/search\/top_search\/tabs\/hot\/items|\/topstory\/hot-lists?(\?|\/)|\/(comment_v5\/)?(answers|comments?|articles|pins)\/\d+\/(root_|child_)?comments?)) url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/zhihu.js
+
+
+# 知乎屏蔽关键词解锁
+^https?:\/\/api\.zhihu\.com\/feed-root\/block url script-analyze-echo-response https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/zhihu.js
+
+
+# 拦截知乎开屏广告
+# 知乎去除最常访问
+# 知乎其他广告拦截
+# 知乎品牌提问广告
+# 屏蔽消息页面上拉的用户精选
+# 知乎去除Tab页关注人头像
+# 知乎去除回答下的广告
+# 知乎拦截部分预加载
+# 知乎网页版去广告
+^https?:\/\/(zhuanlan\.zhihu\.com\/api\/articles\/\d+\/recommendation|www\.zhihu\.com(\/api\/v4\/answers\/\d+\/recommendations|\/appview\/(p|v2\/answer|zvideo)\/.*entry=(preload-topstory|preload-search|preload-subscription)|\/api\/v4/(questions|anwsers)\/\d+/related-readings|\/api\/v4\/hot_recommendation|\/commercial_api\/banners_v3\/mobile_banner|\/api\/v\d+\/brand\/question/\d+/card\?)|api\.zhihu\.com(\/commercial_api\/launch_v2\?|\/moments\/recent|\/(notifications\/v3\/count|v3\/package|me\/guides|drama\/living-info|ad|fringe|commercial|market\/popovers|.*featured-comment-ad)|\/brand\/question\/\d+/card\?|\/moments/hybrid\?|\/moments\/tab_v2)) url reject-dict
+
+
+# 知乎下发的配置，如皮肤等
+# 屏蔽知乎“我的”页面推荐开通会员的卡片
+^https?:\/\/api\.zhihu\.com(\/ab\/api\/v1\/products\/zhihu\/platforms\/ios\/config|\/people\/self\/new_user_card) url reject-200
+
