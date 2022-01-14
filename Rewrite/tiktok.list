@@ -23,4 +23,4 @@ https?:\/\/.*\.tiktokv\.com\/aweme\/v\d\/(feed|mix\/aweme|aweme\/post|(multi\/)?
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/(feed|aweme\/post|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list)\/ url script-request-header https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/Aweme.js
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/(feed|aweme\/post|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list)\/ url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/Aweme.js
 
-hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com, -*.amemv.com, -*.snssdk.com, aweme.snssdk.com
+hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com, -*.amemv.com, -*.snssdk.com
