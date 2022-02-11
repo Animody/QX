@@ -12,8 +12,8 @@
  const preview = 'medium' // 预览大小 可选:small,medium,large
  const spacing = 5 // 间隙大小
  
- const repairId = 'xxxx'
- const serialNumber = 'xxxxx'
+ const repairId = 'R525777900'
+ const serialNumber = 'GX3C3PZVJQH4'
 
 
  const repairMetaData = await getinfo()
