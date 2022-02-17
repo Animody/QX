@@ -1,13 +1,11 @@
 # TikTok AD & Watermark
 https?:\/\/.*\.tiktokv\.com\/aweme\/v\d\/(feed|mix\/aweme|aweme\/post|(multi\/)?aweme\/detail|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list|aweme\/favorite) url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/tiktok.js
 
-/*
 # tikTok Unlock
-;(?<=_region=)CN(?=&) url 307 US
-;(^h.+v5\/)(.+) url 302 $1
-;(?<=&mcc_mnc=)4 url 307 2
-;(?<=eme\/v)2(?=\/f\w{2}d\/\?.*) url 302 1
-*/
+#;(?<=_region=)CN(?=&) url 307 US
+#;(^h.+v5\/)(.+) url 302 $1
+#;(?<=&mcc_mnc=)4 url 307 2
+#;(?<=eme\/v)2(?=\/f\w{2}d\/\?.*) url 302 1
 
 #tiktok unlock & live
 (?<=_region=)CN(?=&) url 307 US
