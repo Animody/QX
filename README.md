@@ -63,6 +63,7 @@ Self-used profile, filters & rewrites, JS scripts & configs for QX.
 - [x] [Orz-3 face IconSet](https://github.com/Orz-3/face)  
 - [x] [blackmatrix7 IconSet](https://github.com/blackmatrix7/ios_rule_script/tree/master/icon)  
 - [x] [shoujiqiyuan IconSet](https://github.com/shoujiqiyuan)  
+- [x] [Semporia IconSet](https://github.com/Semporia/Quantumult-X/tree/master/Bubble)  
 
 ## **Extensions:**
 ### **Resource-Parser** 
