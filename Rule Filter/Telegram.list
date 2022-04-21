@@ -18,7 +18,7 @@ HOST-SUFFIX,tx.me,Telegram
 HOST-SUFFIX,usercontent.dev,Telegram
 HOST-KEYWORD,nicegram,Telegram
 HOST-KEYWORD,telegram,Telegram
-#IP-CIDR,5.28.192.0/18,Telegram
+;IP-CIDR,5.28.192.0/18,Telegram
 IP-CIDR,67.198.55.0/24,Telegram
 IP-CIDR,91.105.192.0/23,Telegram
 IP-CIDR,91.108.0.0/16,Telegram
