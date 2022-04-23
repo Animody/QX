@@ -2,6 +2,7 @@ HOST,gateway.icloud.com,AppleNews
 HOST,gspe1-ssl.ls.apple.com,AppleNews
 HOST,gspe35-ssl.ls.apple.com,AppleNews
 HOST,configuration.ls.apple.com,AppleNews
+USER-AGENT,com.apple.geod*,AppleNews
 HOST-SUFFIX,ls.apple.com,AppleNews
 HOST,apple.comscoreresearch.com,AppleNews
 HOST,news-assets.apple.com,AppleNews
