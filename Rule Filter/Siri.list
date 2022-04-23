@@ -4,13 +4,3 @@ HOST,lookup-api.apple.com,Siri
 HOST,lookup-api.apple.com.edgekey.net,Siri
 HOST,api.smoot.apple.com.cn,Siri
 HOST-SUFFIX,smoot.apple.com,Siri
-#
-USER-AGENT,Transparent%20network%20proxy%20for%20Apple%20system%20services*,iCloud Private Relay
-HOST,mask.icloud.com,iCloud Private Relay
-HOST,mask-api.icloud.com,iCloud Private Relay
-HOST,mask-api.fe.apple-dns.net,iCloud Private Relay
-HOST,mask.apple-dns.net,iCloud Private Relay
-HOST,mask-h2.icloud.com,iCloud Private Relay
-HOST,mask-t.apple-dns.net,iCloud Private Relay
-IP-CIDR,17.0.0.0/8,iCloud Private Relay
-HOST,networking.privacy.subscriber,iCloud Private Relay
