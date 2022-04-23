@@ -14,6 +14,7 @@ USER-AGENT,com.apple.news*,AppleNews
 HOST,gs-loc-cn.apple.com,AppleNews
 
 #(DEST-PORT: 443)
+HOST-KEYWORD,-acsegateway.icloud.com,iCloud Private Relay
 USER-AGENT,Transparent%20network%20proxy%20for%20Apple%20system%20services*,iCloud Private Relay
 HOST,mask.icloud.com,iCloud Private Relay
 HOST,mask-api.icloud.com,iCloud Private Relay
