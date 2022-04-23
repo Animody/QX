@@ -1,0 +1,2 @@
+host, app-site-association.cdn-apple.com, reject
+host-suffix, is*-ssl.mzstatic.com, reject
