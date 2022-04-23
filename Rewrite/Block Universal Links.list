@@ -1,0 +1,3 @@
+^https?:\/\/is[0-9]*-ssl\.mzstatic\.com url reject
+^https?:\/\/app-site-association\.cdn-apple\.com url reject
+hostname = is*-ssl.mzstatic.com, app-site-association.cdn-apple.com
