@@ -45,6 +45,8 @@ HOST,p6.music.126.net,Netease Music
 HOST,p7.music.126.net,Netease Music
 HOST,p8.music.126.net,Netease Music
 HOST,p9.music.126.net,Netease Music
+HOST,nstool.netease.com,Netease Music
+HOST-SUFFIX,netease.com,Netease Music
 HOST-SUFFIX,163yun.com,Netease Music
 HOST-SUFFIX,hz.netease.com,Netease Music
 HOST-SUFFIX,mam.netease.com,Netease Music
