@@ -2,4 +2,4 @@
 ^https?:\/\/.*\.cloudfront\.net\/log\/new_log.php url reject
 ^https?:\/\/creatives\.ftacademy\.cn\/ads url reject
 
-Hostname = *.cloudfront.net, creatives.ftacademy.cn
+hostname = *.cloudfront.net, creatives.ftacademy.cn
