@@ -1,5 +1,7 @@
 ^https?:\/\/.*\.cloudfront\.net\/index\.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/ftc.js
 ^https?:\/\/.*\.cloudfront\.net\/log\/new_log.php url reject
 ^https?:\/\/creatives\.ftacademy\.cn\/ads url reject
+^https?:\/\/creatives\.ftimg\.net\/ads url reject-img
+^https?:\/\/www\.ft\.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fcreatives\.ftimg\.net%2Fads* url reject-img
 
-hostname = *.cloudfront.net, creatives.ftacademy.cn
+hostname = *.cloudfront.net, creatives.ftacademy.cn, creatives.ftimg.net, www.ft.com
