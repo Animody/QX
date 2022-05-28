@@ -1,4 +1,4 @@
-^https?:\/\/.*\.cloudfront\.net\/index\.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/ft.js
+^https?:\/\/.*\.cloudfront\.net\/index\.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/ftc.js
 ^https?:\/\/.*\.cloudfront\.net\/log\/new_log.php url reject
 ^https?:\/\/creatives\.ftacademy\.cn\/ads url reject
 
