@@ -5,7 +5,14 @@ HOST,a4.mzstatic.com,Apple
 HOST,a5.mzstatic.com,Apple
 HOST,adcdownload.apple.com.akadns.net,Apple
 HOST,adcdownload.apple.com,Apple
+HOST,api.smoot.apple.com,Apple
 HOST,api.smoot.apple.cn,Apple
+HOST,api2.smoot.apple.com,Apple
+HOST,api-glb-apne1c.smoot.apple.com,Apple
+HOST,api-glb-apne1d.smoot.apple.com,Apple
+HOST,api-glb-apse1c.smoot.apple.com,Apple
+HOST,api-glb-aps1b.smoot.apple.com,Apple
+HOST,api-glb-usw2b.smoot.apple.com,Apple
 HOST,appldnld.apple.com,Apple
 HOST,appldnld.g.aaplimg.com,Apple
 HOST,apple.comscoreresearch.com,Apple
