@@ -5,11 +5,16 @@ HOST,a4.mzstatic.com,Apple
 HOST,a5.mzstatic.com,Apple
 HOST,adcdownload.apple.com.akadns.net,Apple
 HOST,adcdownload.apple.com,Apple
+HOST,api.smoot.apple.cn,Apple
 HOST,appldnld.apple.com,Apple
 HOST,appldnld.g.aaplimg.com,Apple
+HOST,apple.comscoreresearch.com,Apple
+HOST,apple-events.akamaized.net,Apple
 HOST,appleid.cdn-apple.com,Apple
 HOST,apps.apple.com,Apple
 HOST,apps.mzstatic.com,Apple
+HOST,books.itunes.apple.com,Apple
+HOST,captive.apple.com,Apple
 HOST,cdn-cn1.apple-mapkit.com,Apple
 HOST,cdn-cn2.apple-mapkit.com,Apple
 HOST,cdn-cn3.apple-mapkit.com,Apple
@@ -38,8 +43,14 @@ HOST,clientflow.apple.com,Apple
 HOST,configuration.apple.com.akadns.net,Apple
 HOST,configuration.apple.com,Apple
 HOST,cstat.apple.com,Apple
+HOST,cvws.icloud-content.com,Apple
 HOST,dd-cdn.origin-apple.com.akadns.net,Apple
+HOST,developer.apple.com,Apple
 HOST,download.developer.apple.com,Apple
+HOST,fmfmobile.icloud.com,Apple
+HOST,fmipmobile.icloud.com,Apple
+HOST,gateway.icloud.com,Apple
+HOST,gateway.icloud.com.cn,Apple
 HOST,gs-loc-cn.apple.com,Apple
 HOST,gs-loc.apple.com,Apple
 HOST,gsp10-ssl-cn.ls.apple.com,Apple
@@ -55,6 +66,7 @@ HOST,gspe19-cn.ls.apple.com,Apple
 HOST,gspe21-ssl.ls.apple.com,Apple
 HOST,gspe21.ls.apple.com,Apple
 HOST,gspe35-ssl.ls.apple.com,Apple
+HOST,hls.itunes.apple.com,Apple
 HOST,iadsdk.apple.com,Apple
 HOST,icloud-cdn.icloud.com.akadns.net,Apple
 HOST,icloud.cdn-apple.com,Apple
@@ -82,6 +94,7 @@ HOST,is5.mzstatic.com,Apple
 HOST,itunes-apple.com.akadns.net,Apple
 HOST,itunes.apple.com,Apple
 HOST,itunesconnect.apple.com,Apple
+HOST,lookup-api.apple.com,Apple
 HOST,mesu-cdn.apple.com.akadns.net,Apple
 HOST,mesu-china.apple.com.akadns.net,Apple
 HOST,mesu.apple.com,Apple
@@ -94,8 +107,13 @@ HOST,pancake.apple.com,Apple
 HOST,pancake.cdn-apple.com.akadns.net,Apple
 HOST,phobos.apple.com,Apple
 HOST,prod-support.apple-support.akadns.net,Apple
+HOST,proxy.safebrowsing.apple,Apple
+HOST,p205-quota.icloud.com.cn,Apple
 HOST,reserve-prime.apple.com,Apple
+HOST,sandbox.itunes.apple.com,Apple
+HOST,smp-device-content.apple.com,Apple
 HOST,s.mzstatic.com,Apple
+HOST,statici.icloud.com,Apple
 HOST,stocks-sparkline-lb.apple.com.akadns.net,Apple
 HOST,store.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST,store.apple.com.edgekey.net,Apple
@@ -112,6 +130,7 @@ HOST,swdist.apple.com.akadns.net,Apple
 HOST,swdist.apple.com,Apple
 HOST,swscan-cdn.apple.com.akadns.net,Apple
 HOST,swscan.apple.com,Apple
+HOST,token.safebrowsing.apple,Apple
 HOST,updates-http.cdn-apple.com.akadns.net,Apple
 HOST,updates-http.cdn-apple.com,Apple
 HOST,updates.cdn-apple.com,Apple
@@ -121,23 +140,8 @@ HOST,weather-data.apple.com,Apple
 HOST,www.apple.com.edgekey.net.globalredir.akadns.net,Apple
 HOST,www.apple.com.edgekey.net,Apple
 HOST,www.apple.com,Apple
-HOST,xp.apple.com,Apple
-#Most Recent
-HOST,captive.apple.com,Apple
-HOST,smp-device-content.apple.com,Apple
-HOST,books.itunes.apple.com,Apple
-HOST,cvws.icloud-content.com,Apple
-HOST,developer.apple.com,Apple
-HOST,hls.itunes.apple.com,Apple
-HOST,lookup-api.apple.com,Apple
-HOST,sandbox.itunes.apple.com,Apple
 HOST,www-cdn.icloud.com.akadns.net,Apple
-HOST,fmfmobile.icloud.com,Apple
-HOST,fmipmobile.icloud.com,Apple
-HOST,statici.icloud.com,Apple
-HOST,api.smoot.apple.cn,Apple
-HOST,apple-events.akamaized.net,Apple
-HOST,apple.comscoreresearch.com,Apple
+HOST,xp.apple.com,Apple
 
 #Apple
 HOST-SUFFIX,aaplimg.com,Apple
