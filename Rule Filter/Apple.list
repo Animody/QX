@@ -152,7 +152,6 @@ HOST-SUFFIX,comscoreresearch.com,Apple
 HOST-SUFFIX,crashlytics.com,Apple
 HOST-SUFFIX,digicert.com,Apple
 HOST-SUFFIX,itunes.com,Apple
-HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST-SUFFIX,organicfruitapps.com,Apple
 HOST-SUFFIX,safebrowsing.apple,Apple
@@ -183,6 +182,7 @@ HOST-KEYWORD,testflight,Apple
 HOST-KEYWORD,apple,Apple
 
 #iCloud
+HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,apple-icloud.cn,Apple
 HOST-SUFFIX,appleicloud.cn,Apple
 HOST-SUFFIX,applemx-icloud.com,Apple
