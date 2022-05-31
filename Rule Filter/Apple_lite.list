@@ -1,6 +1,5 @@
 #Apple
 HOST-SUFFIX,aaplimg.com,Apple
-HOST-SUFFIX,akamaized.net,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,apple.news,Apple
@@ -18,6 +17,7 @@ HOST-SUFFIX,apple-dns.net,Apple
 HOST-SUFFIX,apple-livephotoskit.com,Apple
 HOST-SUFFIX,apple-mapkit.com,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
+HOST-SUFFIX,apple-events.akamaized.net,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,smoot.apple.cn,Apple
 HOST-SUFFIX,apple.com.cdn20.com,Apple
