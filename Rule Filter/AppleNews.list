@@ -1,32 +1,35 @@
+HOST,apple.comscoreresearch.com,AppleNews
+HOST,configuration.ls.apple.com,AppleNews
+HOST,e16991.b.akamaiedge.net,AppleNews
 HOST,gateway.icloud.com,AppleNews
+HOST,gs-loc-cn.apple.com,AppleNews
+HOST,gspe-ssl.ls.apple.com,AppleNews
 HOST,gspe1-ssl.ls.apple.com,AppleNews
 HOST,gspe35-ssl.ls.apple.com,AppleNews
-HOST,configuration.ls.apple.com,AppleNews
-USER-AGENT,com.apple.geod*,AppleNews
-HOST-SUFFIX,ls.apple.com,AppleNews
-HOST,apple.comscoreresearch.com,AppleNews
 HOST,news-assets.apple.com,AppleNews
 HOST,news-client.apple.com,AppleNews
 HOST,news-edge.apple.com,AppleNews
 HOST,news-events.apple.com,AppleNews
 HOST-SUFFIX,apple.news,AppleNews
+HOST-SUFFIX,ls.apple.com,AppleNews
+HOST-KEYWORD,-ssl.ls.apple.com,AppleNews
 USER-AGENT,AppleNews*,AppleNews
+USER-AGENT,com.apple.geod*,AppleNews
 USER-AGENT,com.apple.news*,AppleNews
-HOST,gs-loc-cn.apple.com,AppleNews
 
 #(DEST-PORT: 443)
-HOST-KEYWORD,-acsegateway.icloud.com,iCloud Private Relay
-USER-AGENT,Transparent%20network%20proxy%20for%20Apple%20system%20services*,iCloud Private Relay
-HOST,mask.icloud.com,iCloud Private Relay
-HOST,mask-api.icloud.com,iCloud Private Relay
-HOST,mask-api.fe.apple-dns.net,iCloud Private Relay
 HOST,mask.apple-dns.net,iCloud Private Relay
-HOST,mask-h2.icloud.com,iCloud Private Relay
-HOST,mask-t.apple-dns.net,iCloud Private Relay
-IP-CIDR,17.0.0.0/8,iCloud Private Relay
-HOST,networking.privacy.subscriber,iCloud Private Relay
 HOST,mask.appledns.net,iCloud Private Relay
+HOST,mask.icloud.com,iCloud Private Relay
+HOST,mask-api.fe.apple-dns.net,iCloud Private Relay
 HOST,maskapi.fe.appledns.net,iCloud Private Relay
+HOST,mask-api.icloud.com,iCloud Private Relay
 HOST,maskapi.icloud.com,iCloud Private Relay
+HOST,mask-h2.icloud.com,iCloud Private Relay
 HOST,maskh2.icloud.com,iCloud Private Relay
+HOST,mask-t.apple-dns.net,iCloud Private Relay
 HOST,maskt.appledns.net,iCloud Private Relay
+HOST,networking.privacy.subscriber,iCloud Private Relay
+HOST-KEYWORD,-acsegateway.icloud.com,iCloud Private Relay
+IP-CIDR,17.0.0.0/8,iCloud Private Relay
+USER-AGENT,Transparent%20network%20proxy%20for%20Apple%20system%20services*,iCloud Private Relay
