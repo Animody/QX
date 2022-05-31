@@ -1,8 +1,8 @@
-HOST,guzzoni.apple.com,Siri
+HOST,api.smoot.apple.cn,Siri
+HOST,api.smoot.apple.com,Siri
 HOST,e16991.b.akamaiedge.net,Siri
+HOST,guzzoni.apple.com,Siri
 HOST,lookup-api.apple.com,Siri
 HOST,lookup-api.apple.com.edgekey.net,Siri
-HOST,api.smoot.apple.com,Siri
-HOST,api.smoot.apple.cn,Siri
 HOST-SUFFIX,smoot.apple.cn,Siri
 HOST-SUFFIX,smoot.apple.com,Siri
