@@ -1,9 +1,16 @@
-HOST,supportdownload.apple.com,Apple Update
+#
+HOST,gdmf.apple.com,Apple Update
+HOST,gdmf.apple.com.akadns.net,Apple Update
+HOST,mesu.apple.com,Apple Update
+HOST,mesu-cdn.apple.com.akadns.net,Apple Update
+HOST,mesu-cdn.origin-apple.com.akadns.net,Apple Update
+HOST,mesu.g.aaplimg.com,Apple Update
 HOST,appldnld.apple.com,Apple Update
+HOST,appldnld.apple.com.akadns.net,Apple Update
+#
+HOST,supportdownload.apple.com,Apple Update
 HOST,swcdn.apple.com,Apple Update
 HOST,apptrailers.itunes.apple.com,Apple Update
 HOST,updates-http.cdn-apple.com,Apple Update
 HOST,ns.itunes.apple.com,Apple Update
-HOST,mesu.apple.com,Apple Update
 HOST,xp.apple.com,Apple Update
-HOST,gdmf.apple.com,Apple Update
