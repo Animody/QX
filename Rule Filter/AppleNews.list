@@ -1,4 +1,3 @@
-HOST,apple.comscoreresearch.com,AppleNews
 HOST,configuration.ls.apple.com,AppleNews
 HOST,gateway.icloud.com,AppleNews
 HOST,gs-loc-cn.apple.com,AppleNews
@@ -9,6 +8,7 @@ HOST,news-assets.apple.com,AppleNews
 HOST,news-client.apple.com,AppleNews
 HOST,news-edge.apple.com,AppleNews
 HOST,news-events.apple.com,AppleNews
+HOST-SUFFIX,apple.comscoreresearch.com,AppleNews
 HOST-SUFFIX,apple.news,AppleNews
 HOST-SUFFIX,ls.apple.com,AppleNews
 HOST-KEYWORD,-ssl.ls.apple.com,AppleNews
