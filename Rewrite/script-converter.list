@@ -1,0 +1,2 @@
+hostname=raw.githubusercontent.com, gist.githubusercontent.com
+^https?:\/\/(raw|gist)\.githubusercontent.com/.*\.js$ url script-response-body https://github.com/Animody/QX_Config/raw/main/Rewrite/JS/js-converter.js
