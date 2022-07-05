@@ -1,1 +1,2 @@
 https:\/\/greasyfork\.org\/scripts\/.*\.user\.js url script-response-body https://github.com/Animody/QX_Config/raw/main/Rewrite/JS/greasy-fork.js
+hostname=greasyfork.org, openuserjs.org
