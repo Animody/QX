@@ -59,3 +59,37 @@ HOST-KEYWORD,search-lq,IP归属地
 # ======= 头条 ======= #
 # 网友提供头条IP定位接口
 HOST-SUFFIX,toutiaoapi.com,IP归属地
+
+# ======= 快手 ======= #
+# issue#3 提供
+# 个人主页似乎有延迟，未测试
+# 一个域名连不上会请求另一个，两个同时使用就会生效了
+HOST-SUFFIX,gifshow.com,IP归属地
+HOST-SUFFIX,ksapisrv.com,IP归属地
+
+# ======= 小红书 ======= #
+# issue#4 提供
+HOST-SUFFIX,xiaohongshu.com,IP归属地
+
+# ======= 其乐论坛 ======= #
+# issue#11 提供
+# 评论区
+HOST,keylol.com,IP归属地
+
+# ======= 西瓜视频 ======= #
+# issue#10 提供
+# 可以阻止真实ip显示，但无法显示代理ip
+HOST-SUFFIX,ixigua.com,IP归属地
+
+# ======= 文叔叔 ======= #
+# DoingDog/anti-ip-attribution
+HOST,www.wenshushu.cn,IP归属地
+
+# ======= 豆瓣 ======= #
+# issue#14提供
+# iOS客户端
+IP-CIDR,49.233.242.15/32,IP归属地
+IP-CIDR,81.70.124.99/32,IP归属地
+IP-CIDR,140.143.177.206/32,IP归属地
+# 网页端
+HOST,www.douban.com,IP归属地
