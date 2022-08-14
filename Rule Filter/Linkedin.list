@@ -1,0 +1,15 @@
+
+HOST-SUFFIX,linkedin.com,Linkedin
+HOST-SUFFIX,licdn.com,Linkedin
+HOST-KEYWORD,linkedin,Linkedin
+#IP-ASN,55163,
+#IP-ASN,40793,
+#IP-ASN,30427,
+#IP-ASN,20366,
+#IP-ASN,202745,
+#IP-ASN,20049,
+#IP-ASN,197613,
+#IP-ASN,14413,
+#IP-ASN,13443,
+#IP-ASN,132466,
+USER-AGENT,LinkedIn*,Linkedin
