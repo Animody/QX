@@ -32,7 +32,6 @@ HOST-SUFFIX,dogecoin.com,Crypto
 HOST-SUFFIX,paxful.com,Crypto
 
 # > Binance
-HOST-SUFFIX,appsflyer.com,Crypto
 HOST-SUFFIX,binance.cc,Crypto
 HOST-SUFFIX,binance.cloud,Crypto
 HOST-SUFFIX,binance.com,Crypto
@@ -66,7 +65,10 @@ HOST-SUFFIX,binancezh.net,Crypto
 HOST-SUFFIX,binancezh.pro,Crypto
 HOST-SUFFIX,binancezh.sh,Crypto
 HOST-SUFFIX,binancezh.top,Crypto
-HOST-SUFFIX,saasexch.com,Crypto
+#ad tracker
+#HOST-SUFFIX,appsflyer.com,Crypto
+#Verdict & Fraud Prevention
+#HOST-SUFFIX,saasexch.com,Crypto
 #HOST-SUFFIX,riskified.com,Crypto
 #HOST-SUFFIX,siftscience.com,Crypto
 
