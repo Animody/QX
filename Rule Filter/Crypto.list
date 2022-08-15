@@ -85,10 +85,10 @@ HOST-SUFFIX,huobi.br.com,Crypto
 HOST-SUFFIX,bitderiv.com,Crypto
 
 # > OKX
-host, api-fc.dutils.com, Crypto
-host-suffix, dutils.com, Crypto
-host-suffix, gw-dv.net, Crypto
-host-suffix, cdn-gw-dv.net, Crypto
+HOST,api-fc.dutils.com,Crypto
+HOST-SUFFIX,dutils.com,Crypto
+HOST-SUFFIX,gw-dv.net,Crypto
+HOST-SUFFIX,cdn-gw-dv.net,Crypto
 HOST-SUFFIX,okex.com,Crypto
 HOST-SUFFIX,okx.com,Crypto
 
