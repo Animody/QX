@@ -1,5 +1,5 @@
 #GoogleFCM Push Services
-#HOST-WILDCARD,alt*-mtalk.google.com,DIRECT
+HOST-WILDCARD,alt*-mtalk.google.com,DIRECT
 HOST,alt1-mtalk.google.com,DIRECT
 HOST,alt2-mtalk.google.com,DIRECT
 HOST,alt3-mtalk.google.com,DIRECT
