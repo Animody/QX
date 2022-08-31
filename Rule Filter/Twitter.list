@@ -35,11 +35,13 @@ HOST-SUFFIX,cnn.it,Twitter
 HOST-SUFFIX,econ.st,Twitter
 HOST-SUFFIX,fxn.ws,Twitter
 HOST-SUFFIX,goo.gl,Twitter
+#HOST-SUFFIX,lnkd.in,Twitter
 HOST-SUFFIX,nyti.ms,Twitter
 HOST-SUFFIX,on.msnbc.com,Twitter
 HOST-SUFFIX,on.ft.com,Twitter
 HOST-SUFFIX,on.wsj.com,Twitter
 HOST-SUFFIX,reut.rs,Twitter
+HOST-SUFFIX,t.ted.com,Twitter
 HOST-SUFFIX,ti.me,Twitter
 HOST-SUFFIX,trib.al,Twitter
 HOST-SUFFIX,wapo.st,Twitter
