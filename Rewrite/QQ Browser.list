@@ -1,0 +1,8 @@
+HOST,kde.qq.com,REJECT
+HOST,hc.tdm.qq.com,REJECT
+HOST,h.trace.qq.com,REJECT
+HOST-SUFFIX,3g.qq.com,REJECT
+HOST,mtt.eve.mdt.qq.com,REJECT
+HOST,tpush.html5.qq.com,REJECT
+HOST,otheve.beacon.qq.com,REJECT
+HOST,hllb-hl.mig.tencent-cloud.net,REJECT
