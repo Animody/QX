@@ -16,3 +16,10 @@ HOST,otheve.beacon.qq.com,REJECT
 HOST,game.qqbrowser.qq.com,REJECT
 HOST,game-acc.qqbrowser.qq.com,REJECT 
 HOST,hllb-hl.mig.tencent-cloud.net,REJECT 
+HOST-SUFFIX,feiyu.qq.com,REJECT
+HOST-KEYWORD,qbdsp,REJECT 
+HOST-KEYWORD,qbuc,REJECT 
+HOST-KEYWORD,tmfmazu,REJECT 
+HOST-KEYWORD,publiclog,REJECT 
+HOST-SUFFIX,research.qq.com,REJECT
+HOST,mtt.str.mdt.qq.com,REJECT
