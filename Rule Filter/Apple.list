@@ -151,6 +151,9 @@ HOST,www-cdn.icloud.com.akadns.net,Apple
 HOST,xp.apple.com,Apple
 
 #Apple
+HOST-SUFFIX,vertexsmb.com,Apple // 验证免税状态
+HOST-SUFFIX,appleschoolcontent.com,Apple // SFTP 上传
+HOST-SUFFIX,axm-usercontent-apple.com,Apple  // 自定软件包图标
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,akamaized.net,Apple
 HOST-SUFFIX,apple.co,Apple
@@ -158,13 +161,15 @@ HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,appsto.re,Apple
-HOST-SUFFIX,apzones.com,Apple
+HOST-SUFFIX,apzones.com,Apple // 中国大陆的 iCloud 服务
 HOST-SUFFIX,apple.comscoreresearch.com,Apple
 HOST-SUFFIX,comscoreresearch.com,Apple
 HOST-SUFFIX,crashlytics.com,Apple
-HOST-SUFFIX,digicert.com,Apple
+HOST-SUFFIX,entrust.net,Apple  // 证书验证
+HOST-SUFFIX,digicert.com,Apple // 证书验证
+HOST-SUFFIX,digicert.cn,Apple // 证书验证
 HOST-SUFFIX,itunes.com,Apple
-HOST-SUFFIX,mzstatic.com,Apple
+HOST-SUFFIX,mzstatic.com,Apple  // 商店内容，如 App、图书和音乐
 HOST-SUFFIX,organicfruitapps.com,Apple
 HOST-SUFFIX,safebrowsing.apple,Apple
 HOST-SUFFIX,apple-dns.net,Apple
@@ -184,12 +189,17 @@ HOST-SUFFIX,apple.com.edgekey.net,Apple
 HOST-SUFFIX,itunes.com.edgekey.net,Apple
 HOST-SUFFIX,com.edgekey.net,Apple
 HOST-SUFFIX,edgekey.net,Apple
+HOST-SUFFIX,apple.com.edgesuite.net,Apple
+HOST-SUFFIX,edgesuite.net,Apple  // 蜂窝网络运营商捆绑包更新
 HOST-SUFFIX,ess.apple.com,Apple
 HOST-SUFFIX,itunes.apple.com,Apple
 HOST-SUFFIX,ls.apple.com,Apple
 HOST-SUFFIX,push.apple.com,Apple
 HOST-SUFFIX,smoot.apple.com,Apple
 HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple,Apple
+HOST-KEYWORD,app-site-association,Apple // 通用链接的关联域
+HOST-KEYWORD,appldnld,Apple // iOS、iPadOS 和 watchOS 更新 蜂窝网络运营商捆绑包更新	
 HOST-KEYWORD,testflight,Apple
 HOST-KEYWORD,apple,Apple
 
