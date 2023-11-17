@@ -1,4 +1,4 @@
 
-^https:\/\/novel.html5.qq.com\/(trpc.pcg_novel.operating_position.OperatingPositionHTTP\/.*|(nfa|qbnfa)\/getAds|be-api\/content\/ads-read|qbread\/api\/novel\/adload\/.*|qbread\/api\/report\/.*) url reject
+^https:\/\/novel.html5.qq.com\/(trpc.pcg_novel.operating_position.OperatingPositionHTTP\/.*|(nfa|qbnfa)\/(getAds|getOrReportData)|be-api\/content\/ads-read|qbread\/api\/novel\/adload\/.*|qbread\/api\/report\/.*) url reject
 
 hostname = novel.html5.qq.com
