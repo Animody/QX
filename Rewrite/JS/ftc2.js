@@ -7,7 +7,7 @@ FT中文网 外区
 ***********************
 
 [rewrite_local]
-^https?:\/\/.*\.cloudfront\.net\/index\.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/FTzhongwenwang.js
+^https?:\/\/.*\.cloudfront\.net\/index\.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/Animody/QX_Config/main/Rewrite/JS/ftc2.js
 ^https?:\/\/.*\.cloudfront\.net\/log\/new_log.php url reject
 ^https?:\/\/creatives\.ftacademy\.cn\/ads url reject
 ^https?:\/\/creatives\.ftimg\.net\/ads url reject-img
